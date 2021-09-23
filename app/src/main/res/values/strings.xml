@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="hint_test">Mobile Number <font color='#FF0000'>*</font></string>
+    <string name="hint_test1">Gender <font color='#FF0000'>*</font></string>
+    <string name="hint_test2">DOB(mm/dd/yyyy) <font color='#FF0000'>*</font></string>
+    <string name="hint_test3">Full Name <font color='#FF0000'>*</font></string>
+    <string name="hint_test4">Address line 1 <font color='#FF0000'>*</font></string>
+    <string name="hint_test5">Pin Code<font color='#FF0000'>*</font></string>
+    <string name="category_gender">Gender</string>
+    <!-- Label for dropdown menu option if the pet's gender is unknown [CHAR LIMIT=20] -->
+    <string name="gender_unknown">Unknown</string>
+
+    <!-- Label for dropdown menu option if the pet is male [CHAR LIMIT=20] -->
+    <string name="gender_male">Male</string>
+
+    <!-- Label for dropdown menu option if the pet is female [CHAR LIMIT=20] -->
+    <string name="gender_female">Female</string>
+
+    <string-array name="names">
+
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string name="category_weather">Weather today</string>
+    <string name="open_weather_maps_app_id">9d5d9e23cc6dd17e9b7c431a6d5d48b8</string>
+    <string name="place_not_found">Sorry, no weather data found.</string>
+    <string name="action_settings">Settings</string>
+</resources>
