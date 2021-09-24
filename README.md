@@ -1,13 +1,14 @@
 # Registration-And-weather-Info-App
  This is a Android App , in which first register itself by providing details ,then register and then he goes to weather info page where user type city name and get response back.
 
-# Libraries used:-
+
+  Frameworks used :-
+  Java Framework, Android SDK
+  
+  Libraries used :-
   Volley, Built-in intent, Geocoder
 
-# Frameworks used:-
-  Java Framework, Android SDK
-
-# Technologies used:-
+ Technologies used :-
   Java ,XML, Android
 
 Screenshots
