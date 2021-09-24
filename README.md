@@ -1,5 +1,5 @@
 # Registration-And-weather-Info-App
-In this App ,first register itself by providing details ,then register and then he goes to weather info page where user type city name and get response back.
+ This is a Android App , in which first register itself by providing details ,then register and then he goes to weather info page where user type city name and get response back.
 
 # Libraries used:-
   Volley, Built-in intent, Geocoder
