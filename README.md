@@ -14,12 +14,12 @@ Screenshots
 -----------
 
 #  1. Register Page 
-<img width="30%" src="screenshots/1.jpeg" />
+<img  width="30%" src="screenshots/1.jpeg" />
 Link of Screeenshot:-https://drive.google.com/file/d/10BNfDTBVciVpUY-mTRw4tuhlbx1ILyPV/view?usp=sharing
 
 
 #  2.Weather info Page
-<img width="30%" src="screenshots/2.jpeg" />
+<img width="30%"  src="screenshots/2.jpeg" />
 Link of Screeenshot:-https://drive.google.com/file/d/1i4GsOR91EPxH6I6ouKxi6CQ-pE2tIqjX/view?usp=sharing
 
 
